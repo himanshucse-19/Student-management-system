@@ -1,1 +1,2 @@
-# Student-management-system
+# Students-Management-System
+Students management application (lite)
